@@ -1,0 +1,16 @@
+rly_file = "Boston_South_Station.rly"
+ttb_files = [ "Boston_South_Station.ttb",]
+ssn_files = [ "Boston_South_Station_start_routes.ssn",]
+img_files = [ "Boston_South_Station.bmp",]
+doc_files = [ "README.md",]
+release_date = "2026-07-13"
+version = "1.0.0"
+country_code = "US"
+factual = true
+description = ""
+year = 2026
+display_name = "Boston South Station"
+name = "Boston South Station"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
